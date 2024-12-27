@@ -1,0 +1,51 @@
+Full Stack:-
+    •FrontEnd
+    •BackEnd
+    •Version Control
+    •Cloud Strorage
+Git:
+    1.Git init     -  git init
+    2.Git add      -  git add ./Foldername
+    3.Git commit   -  git commit -m "Commit Message"
+    4.Git push     -
+    5.Git clone
+    6.Git merge
+    7.Git pull
+    8.And other 2 more
+
+Commands: 
+-> git init
+-> git add ./Foldername
+-> git commit -m "Commit Message"
+-> git branch -M main
+-> git remote add origin "Repository Name"
+-> git push -u origin main
+
+
+
+Master:                main:          
+*File Structure        * Git
+*git init              * git branch -M main( command to convert master branch to main branch)
+                       * git remote add origin "Repository Name" ()
+
+
+     New Account                      |           Existing Account
+                                      |  
+->  git init                          |        -> git add
+->  git add                           |        -> git commit
+->  git commit                        |        -> git push
+->  git branch                        |        -> git status -> To know the current status of the file/repository
+->  git branch -M main                |
+->  git remote add origin "R_N"       |
+->  git push -u origin main           |
+
+
+> Creating Branch:-
+    git checkout -b "branch_name"  (Branch name -> dashboard, content box)
+    git branch
+    git pull origin "B_N"
+    git fetch origin
+    git merge
+
+Mater  ---->  Main
+
